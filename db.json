@@ -1,0 +1,39 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "brand": "mazda",
+      "year": 2020
+    },
+    {
+      "id": "2",
+      "brand": "kia",
+      "year": 1990
+    },
+    {
+      "id": "6247",
+      "brand": "fort",
+      "year": "1999"
+    },
+    {
+      "id": "5ce1",
+      "brand": "bmv",
+      "year": "2021"
+    },
+    {
+      "id": "7e32",
+      "brand": "suv",
+      "year": "2024"
+    },
+    {
+      "id": "6f92",
+      "brand": "mazda",
+      "year": "2000"
+    },
+    {
+      "id": "0ba5",
+      "brand": "bmv",
+      "year": "2023"
+    }
+  ]
+}
